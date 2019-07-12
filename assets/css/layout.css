@@ -1800,7 +1800,7 @@ section, article {
 
         #main > section.one {
             background-color: #81918E;
-            background-image: url("../../images/banner.jpg");
+            background-image: url("../../images/stars.jpg");
         }
 
         #main > section.two {
@@ -2174,5 +2174,5 @@ section, article {
                 margin-top: 0;
             }
 
-}
+}main
         
